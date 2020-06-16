@@ -1,0 +1,3 @@
+Nombre: Jon
+Edad: 30
+Color favorito: Amarillo
