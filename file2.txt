@@ -1,1 +1,2 @@
 Aquí modifico el file2.txt
+Y aquí añado una segunda línea
